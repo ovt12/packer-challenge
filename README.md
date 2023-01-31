@@ -15,4 +15,5 @@ In between the two videos our AMI and instance have been deployed
 The second video shows 
 - The instance being lauched & connected
 - I then ssh'd into the machine & you will see that mongdb has been installed onto the VM.
+
 ![Recording](/media-vids/2.gif)
