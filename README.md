@@ -1,6 +1,6 @@
 MongoDB Packer Challenge
 
-In this challenge I have had to create a Packer.JSON file, with configeration that allows me to build an AMI on AWS. Create an instance on AWS that allows me to then SSH into the VM Once in the VM, I am able to run the mongosh command that will allow me access to the database. To test that I have access I have run the show dbs commands to list the available dbs.
+In this task, I crafted a Packer.JSON file with configurations for constructing an Amazon Machine Image (AMI) on Amazon Web Services (AWS). Afterwards, I launched an AWS instance which enabled me to access the virtual machine (VM) using Secure Shell (SSH). Once inside the VM, I executed the "mongosh" command to gain entry to the database. To confirm that everything was in order, you can see that we run the command mongosh to confirm that it has installed on the virtual machine.
 
 ![Recording](/media-vids/1.gif)
 ![Recording](/media-vids/2.gif)
